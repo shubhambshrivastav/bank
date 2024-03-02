@@ -15,5 +15,5 @@ Bank Management System Web App with Spring Boot
 - OOP Principles
 
 ### ER Diagram
-![alt text](https://github.com/EylemGokdemir05/SpringBoot_MyBank/blob/main/er_diagram.png)
+![alt text](https://github.com/shubhambshrivastav/bank/blob/main/er_diagram.png)
 # bank
